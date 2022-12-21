@@ -6,6 +6,10 @@
 
 **Game Title:** Adventure's Ends
 
+You can download and play this game – 
+[apcsgame.jar.zip](https://github.com/Penguins478/AdventuresEnds/files/10281442/apcsgame.jar.zip)
+– after setting up JavaFX on your computer.
+
 ## Game Proposal ##
 
 In this game, I want to create a fun single player role-playing game where the user controls a player that must 
